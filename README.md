@@ -64,4 +64,4 @@ The [schema.graphql](https://doc.subquery.network/create/graphql.html) file defi
 
 If we examine the function handleBlock in more detail, you can see that this function takes one argument of type SubstrateBlock. It then creates a new instance of StarterEntity passing in the block.block.header.hash argument as a string and assigning this to the variable record.
 
-Next, the blocknumber is converted to a number via toNumber() and assigned to record.blockHeight which is a StarterEntity meaning that the fields within are accessed with a dot.
+Next, the blocknumber is converted to a number via toNumber() and assigned to record.blockHeight which is a StarterEntity meaning that the fields within are accessed with a dot.# subquery
