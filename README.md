@@ -1,8 +1,4 @@
 
-https://github.com/mellow8/subql-helloworld1/blob/bd529ef8472bea22aa6c2f8b0f0a9d4af1bb4eae/1.jpg
-
-https://github.com/mellow8/subql-helloworld1/blob/main/1.jpg
-
 ![alt tag](https://github.com/mellow8/subql-helloworld1/blob/main/1.jpg)
 
 # What is SubQuery?
